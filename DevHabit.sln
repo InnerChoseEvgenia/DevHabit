@@ -17,13 +17,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{04C4158F-4A88-4B80-BE47-BE3A9EDFC4E9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{9BFF6516-1E37-43B7-87E0-553B94AEA50C}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{676C2663-DFB3-42B0-B2FB-3DEC412E7AD6}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Lessons\Milan Jovanovic - Pragmatic REST APIs in ASP.NET Core (3.2025)\code\2.5 - Introducing the Database - Start\2.5 - Introducing the Database - Start\.github\workflows\build.yml = ..\..\..\Lessons\Milan Jovanovic - Pragmatic REST APIs in ASP.NET Core (3.2025)\code\2.5 - Introducing the Database - Start\2.5 - Introducing the Database - Start\.github\workflows\build.yml
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +37,5 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{26E7653A-A9D4-44E1-896B-D8A0CD117D2C} = {8CF12B8C-F073-4A45-B10F-ED08D55800C7}
-		{676C2663-DFB3-42B0-B2FB-3DEC412E7AD6} = {9BFF6516-1E37-43B7-87E0-553B94AEA50C}
 	EndGlobalSection
 EndGlobal
