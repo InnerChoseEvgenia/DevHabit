@@ -23,7 +23,7 @@ namespace DevHabit.Api.Controllers
 
             var habitsCollectionDto = new TagsCollectionDto
             {
-                Data = tags
+                Items = tags
             };
 
             return Ok(habitsCollectionDto);
